@@ -1,0 +1,109 @@
+.picture {
+    background-color:white;
+    height: 270px;
+    width: 1024px;
+    text-align: center;
+}
+
+.picture1 {
+    background-color:cornflowerblue;
+    height: 270px;
+    width: 1024px;
+    text-align: center;
+}
+
+.picture2 {
+    background-color:tomato;
+    height: 270px;
+    width: 1024px;
+    text-align: center;
+}
+
+.picture3 {
+    background-color:yellow;
+    height: 270px;
+    width: 1024px;
+    text-align: center;
+}
+
+.picture4 {
+    background-color:palegreen;
+    height: 270px;
+    width: 1024px;
+    text-align: center;
+}
+
+.nav-wrapper {
+    background-color:whitesmoke ;
+    width: 1024px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+nav {
+    background-color: white;
+    height: 40px;
+}
+
+header {
+    height: 500px;
+    text-align: center;
+}
+
+footer {
+    background-color: white;
+    height: 200px;
+}
+
+main {
+height: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+h4 {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.green {
+    color: yellowgreen;
+}
+
+.blue {
+    color: cornflowerblue;
+}
+
+.red {
+    color: tomato;
+}
+
+.yellow {
+    color:rgb(251, 235, 5);
+}
+
+b {
+    height: 300px;
+}
